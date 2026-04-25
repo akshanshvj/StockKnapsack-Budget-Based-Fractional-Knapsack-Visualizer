@@ -13,20 +13,6 @@ In this model, the user has a fixed investment budget. Each stock is treated as 
 
 The goal is to maximize total expected profit using the Fractional Knapsack greedy algorithm.
 
-## Screenshots
-
-### Stock Inputs
-
-![Stock input table](screenshots/stock-inputs.png)
-
-### Budget Bar and Final Output
-
-![Animated budget bar and final output](screenshots/budget-and-results.png)
-
-### Algorithm Steps
-
-![Step-by-step algorithm explanation](screenshots/algorithm-steps.png)
-
 ## Features
 
 - Add, edit, and delete stock rows
@@ -79,8 +65,10 @@ npm run dev
 Open the app at:
 
 ```bash
-http://127.0.0.1:5173
+the local URL shown in your terminal
 ```
+
+It is usually `http://127.0.0.1:5173`, but Vite may use another port such as `5174` if `5173` is already busy.
 
 ## Build
 
