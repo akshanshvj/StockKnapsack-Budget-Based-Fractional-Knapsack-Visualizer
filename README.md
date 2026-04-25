@@ -13,6 +13,20 @@ In this model, the user has a fixed investment budget. Each stock is treated as 
 
 The goal is to maximize total expected profit using the Fractional Knapsack greedy algorithm.
 
+## Screenshots
+
+### Stock Inputs
+
+![Stock input table](screenshots/stock-inputs.png)
+
+### Budget Bar and Final Output
+
+![Animated budget bar and final output](screenshots/budget-and-results.png)
+
+### Algorithm Steps
+
+![Step-by-step algorithm explanation](screenshots/algorithm-steps.png)
+
 ## Features
 
 - Add, edit, and delete stock rows
